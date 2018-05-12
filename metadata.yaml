@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24859
     wikipedia: http://en.wikipedia.org/wiki/Giambattista_della_Porta
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22498#Le-commedie---lo-astrologo
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2007-09-04'
 gutenberg_type: Text
