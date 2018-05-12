@@ -1,0 +1,27 @@
+_repo: Le-commedie---lo-astrologo_22498
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Porta, Giambattista della
+    deathdate: 1615
+    gutenberg_agent_id: '24859'
+    url: http://www.gutenberg.org/2009/agents/24859
+    wikipedia: http://en.wikipedia.org/wiki/Giambattista_della_Porta
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2007-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22498'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian drama'
+title: Le commedie - lo astrologo
+url: http://www.gutenberg.org/ebooks/22498
